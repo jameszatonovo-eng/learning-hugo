@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Blowfish</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Homepage on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>james.zatonovo@gmail.com (James)</managingEditor>
+    <webMaster>james.zatonovo@gmail.com (James)</webMaster>
+    <copyright>© 2026 James</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Archetypes</title>
+      <link>http://localhost:1313/concepts/archetypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/concepts/archetypes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Content Types</title>
+      <link>http://localhost:1313/concepts/content-types/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/concepts/content-types/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/concepts/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/concepts/front-matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo Workflow</title>
+      <link>http://localhost:1313/getting-started/hugo-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/getting-started/hugo-workflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/getting-started/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/getting-started/installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/examples/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/examples/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pages Vs Sections</title>
+      <link>http://localhost:1313/concepts/pages-vs-sections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/concepts/pages-vs-sections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project Structure</title>
+      <link>http://localhost:1313/getting-started/project-structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/getting-started/project-structure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/examples/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/examples/shortcodes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Taxonomies</title>
+      <link>http://localhost:1313/concepts/taxonomies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>james.zatonovo@gmail.com (James)</author>
+      <guid>http://localhost:1313/concepts/taxonomies/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
