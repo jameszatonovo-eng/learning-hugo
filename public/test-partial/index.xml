@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing Custom Components on Blowfish</title>
+    <link>http://localhost:1313/test-partial/</link>
+    <description>Recent content in Testing Custom Components on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>james.zatonovo@gmail.com (James)</managingEditor>
+    <webMaster>james.zatonovo@gmail.com (James)</webMaster>
+    <copyright>© 2026 James</copyright>
+    <atom:link href="http://localhost:1313/test-partial/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

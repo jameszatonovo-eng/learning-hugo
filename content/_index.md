@@ -12,10 +12,18 @@ layout: "simple"
 [Divider or Horizontal Line]: # 
 *** 
 
+{{< highlight-box >}}
+This text is inside a custom shortcode!
+{{< /highlight-box >}}
+
+
 The purpose of this site is to discuss key concepts of hugo. Content are organized by sub-directories inside the content directory. Each will have pages that discusses a key concept about hugo.
 
 ## Table of Contents
 *** 
+
+[Test Custom Partial Code!](/test-partial)
+
 1. Getting Started
     -  [Project Structure](/getting-started/project-structure/)
     -  [Installation](/getting-started/installation/)

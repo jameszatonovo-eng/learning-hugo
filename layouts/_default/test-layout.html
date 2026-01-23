@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    <h1>Testing Area</h1>
+    
+    <div style="border: 2px dashed red; padding: 20px;">
+        <p><strong>Below is the custom partial:</strong></p>
+        {{ partial "site-notice.html" . }}
+    </div>
+
+    <hr>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+</body>
+</html>
